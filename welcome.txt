@@ -2,10 +2,3 @@ var1 = 'Welcome'
 var2 = 'amazing world!'
 print(var1, var2)
 
-var1 = 'Welcome'
-var2 = 'amazing world!'
-print(var1, var2)
-
-var1 = 'Welcome'
-var2 = 'amazing world!'
-print(var1, var2)
